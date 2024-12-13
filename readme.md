@@ -6,7 +6,7 @@ Bu proje, JavaScript kullanılarak geliştirilen, basit bir  ad etiketi (name ta
 
 - CSS: Etiket ve sayfa tasarımı.
 
-- JavaScript: Dinamik etiket oluşturma ve indirme işlevselliği.
+- JavaScript: Dinamik etiket oluşturma işlevselliği.
 
 # GIF 
 ![](image/nameTag.gif)
